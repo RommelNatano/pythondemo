@@ -1,1 +1,1 @@
-print("test")
+a=100
